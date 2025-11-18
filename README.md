@@ -1,4 +1,4 @@
-# AAlgo Presenter
+# A*-Algorithm Presenter
 
 ## Usage
 
@@ -9,8 +9,8 @@
 | right-click | select nodes                                 |
 | left-drag   | move viewport                                |
 | scroll      | zoom                                         |
-| CTRL V      | visualize A*-Algo using your arrow keys      |
-| CTRL A      | Play A*-Algo                                 |
+| CTRL V      | visualize A*-Algorithm using your arrow keys |
+| CTRL A      | Play A*-Algorithm                            |
 | CTRL C      | Clear all modifications (includes selection) |
 | CTRL T      | Toggle weights display                       |
 | CTRL X      | Take a screenshot                            |
